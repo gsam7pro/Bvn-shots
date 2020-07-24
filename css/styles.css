@@ -1,3 +1,7 @@
+html {
+  scroll-behavior: smooth;
+}
+
 body {
   font-family: "Montserrat";
   text-align: center;
@@ -194,6 +198,8 @@ video{
 
 }
 
-html {
-  scroll-behavior: smooth;
+
+.lol{
+  background-color: #2f2f31 ;
 }
+
