@@ -83,6 +83,7 @@ p {
       position: absolute;
       right: 30%;
 
+  transform: rotate(25deg);
 
 
 }
